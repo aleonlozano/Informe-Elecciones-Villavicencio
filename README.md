@@ -1,0 +1,2 @@
+- Informe de visualizaciones realizado en Power Bi
+- Datos usados para alimentar el informe
